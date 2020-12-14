@@ -72,13 +72,11 @@ Via SFTP:
 
 Install widilo®Cats4Pages using the WordPress Admin Plugin Upload:
 
-1. Go to the WordPress admin area and visit Plugins => Add New page.
+1. Go to the WordPress admin area and visit **Plugins** => **Add New**.
 2. Click on the **Upload Plugin** button on top of the page.
-3. Click on the **choose file** button and select the plugin file **widilo®Cats4Pages.zip**
-4. After you've selected the file, you need to click on the **Install button**.
+3. Click on the **Choose File** button and select the plugin file **widilo®Cats4Pages.zip**
+4. After you've selected the file, you need to click on the **Install Now** button.
 5. You will see a success message after the installation is finished.
 6. Once installed, you need to click on **Activate Plugin**. That's all!
-
-Have fun with widilo®Cats4Pages!
 
 : )
