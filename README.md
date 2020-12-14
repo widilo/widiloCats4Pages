@@ -1,7 +1,7 @@
 # widiloCats4Pages
 widilo®Cats4Pages - Add tags and categories to WordPress Pages with ease
 
-![widilo Cats for Pages](https://github.com/widilo/widiloCats4Pages/widiloCats4Pages-Screenshot.png)
+![widilo](https://github.com/widilo/widiloCats4Pages/widiloCats4Pages-Screenshot.png)
 
 Have you created your website with the CMS WordPress or had it created? Then you will have noticed that you can only add categories and keywords to your posts, but not to your pages.
 
@@ -19,7 +19,7 @@ Now add this code snippet at the end of your functions.php:
 ```
 /*
 widilo®Cats4Pages // add tags and categories to WordPress pages
-@see https://widilo.de/freebie-wie-du-schlagwoerter-und-kategorien-zu-deinen-wordpress-seiten-hinzufuegen-kannst/
+@see https://widilo.de
 @since 1.0.0
 */
 function widilo_add_cats_to_pages() {
@@ -30,7 +30,7 @@ add_action( 'init', 'widilo_add_cats_to_pages' );
 
 /*
 widilo®Cats4Pages // include all tags and categories in wp_query
-@see https://widilo.de/freebie-wie-du-schlagwoerter-und-kategorien-zu-deinen-wordpress-seiten-hinzufuegen-kannst/
+@see https://widilo.de
 @since 1.0.1
 */
 function widilo_add_cats_to_pages_query($wp_query) {
