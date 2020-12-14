@@ -10,9 +10,7 @@ If you are familiar with PHP and the creation and editing of WordPress themes, y
 
 If you want to implement the snippet permanently in your functions.php, you should create a child theme with an unchangeable functions.php.
 
-If you are not very familiar with PHP or changing WordPress themes or creating child themes, we provide you with a small, free WordPress plugin for download here 🙂
-
-Download-Link: widilo®Cats4Pages, Plugin for WordPress, Version 1.0.1
+If you are not very familiar with PHP or changing WordPress themes or creating child themes, we provide you this small, free widilo®Cats4Pages, Plugin for WordPress, Version 1.0.1, for download here. 
 
 Now add this code snippet at the end of your functions.php:
 
@@ -41,4 +39,4 @@ add_action('pre_get_posts', 'widilo_add_cats_to_pages_query');
 ```
 After you have saved the changes in the functions.php, you will see two new columns in your WordPress page overview: Categories and Keywords. Congratulations you did it!
 
-Happy Coding : )
+: )
