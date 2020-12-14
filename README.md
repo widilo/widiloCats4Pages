@@ -56,11 +56,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html <br><br>
 
 (c) 2020+ Münnecke & Vollmers GbR, widilo® <br>
 
-### == Description ==
+== Description ==
 
 widilo®Cats4Pages adds tags and categories to WordPress pages. You only have to activate the plugin to enable categories and tags to pages.
 
-### == Installation ==
+== Installation ==
 
 How to install the widilo®Cats4Pages WordPress plugin and get it working:
 
