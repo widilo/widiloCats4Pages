@@ -1,7 +1,7 @@
 # widiloCats4Pages
 widilo®Cats4Pages - Add tags and categories to WordPress Pages with ease
 
-![widilo](https://github.com/widilo/widiloCats4Pages/widiloCats4Pages-Screenshot.png)
+![widilo](https://github.com/widilo/widiloCats4Pages/blop/master/widiloCats4Pages-Screenshot.png?raw=true)
 
 Have you created your website with the CMS WordPress or had it created? Then you will have noticed that you can only add categories and keywords to your posts, but not to your pages.
 
