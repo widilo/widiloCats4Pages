@@ -1,20 +1,17 @@
-# widiloCats4Pages
-## widilo®Cats4Pages - Add tags and categories to WordPress Pages with ease.
+# widiloCats4Pages Plugin for WordPress - Add tags and categories to WordPress Pages with ease
 
 ![widiloCats4Pages Plugin for WordPress](https://github.com/widilo/widiloCats4Pages/blob/main/widiloCats4Pages-Screenshot.png?raw=true)
 
-Have you created your website with the CMS WordPress or had it created? Then you will have noticed that you can only add categories and keywords to your posts, but not to your pages.
+Have you created your website with the CMS WordPress? Then you will have noticed that you can only add categories and keywords to your posts, but not to your pages.
 
 Unfortunately, the CMS WordPress does not provide for adding categories and keywords to pages. With a view to good usability, an orderly structure of your website, thematic search functions or SEO, it makes perfect sense to categorize pages as well as articles and to provide them with tags or keywords.
 If you want to add categories and keywords to your WordPress pages, you can use this small code snippet or our free plugin for WordPress.
 
 If you are familiar with PHP and the creation and editing of WordPress themes, you can add the following code snippet to your functions.php. Please note, however, that the code snippet will be overwritten as soon as your theme receives an update.
 
-If you want to implement the snippet permanently in your functions.php, you should create a child theme with an unchangeable functions.php.
+**Please note: If you want to implement the snippet permanently in your functions.php, you should create a child theme with an unchangeable functions.php.**
 
-If you are not very familiar with PHP or changing WordPress themes or creating child themes, we provide you the latest release of widilo®Cats4Pages, Version 1.0.1, for download here: https://github.com/widilo/widiloCats4Pages/releases/tag/widiloCats4pages-v.1.0.1 
-
-Now add this code snippet at the end of your functions.php:
+Add this code snippet at the end of your functions.php:
 
 ```
 /*
