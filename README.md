@@ -12,7 +12,7 @@ If you are familiar with PHP and the creation and editing of WordPress themes, y
 
 If you want to implement the snippet permanently in your functions.php, you should create a child theme with an unchangeable functions.php.
 
-If you are not very familiar with PHP or changing WordPress themes or creating child themes, we provide you this small, free widilo®Cats4Pages, Plugin for WordPress, Version 1.0.1, for download here. 
+If you are not very familiar with PHP or changing WordPress themes or creating child themes, we provide you the latest release of widilo®Cats4Pages, Version 1.0.1, for download here: https://github.com/widilo/widiloCats4Pages/releases/tag/widiloCats4pages-v.1.0.1 
 
 Now add this code snippet at the end of your functions.php:
 
