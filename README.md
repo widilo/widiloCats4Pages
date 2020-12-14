@@ -2,8 +2,6 @@
 
 ### Add tags and categories to WordPress Pages with ease.
 
-![widiloCats4Pages Plugin for WordPress](https://github.com/widilo/widiloCats4Pages/blob/main/widiloCats4Pages-Screenshot.png?raw=true)
-
 Have you created your website with WordPress? Then you will have noticed that you can only add categories and keywords to your posts, but not to your pages. Unfortunately, the CMS WordPress does not provide for adding categories and keywords to pages. With a view to good usability, an orderly structure of your website, thematic search functions or SEO, it makes perfect sense to categorize pages as well as articles and to provide them with tags or keywords.
 If you want to add categories and keywords to your WordPress pages, you can use this small code snippet or our free plugin for WordPress.
 
@@ -36,7 +34,9 @@ if ($wp_query->get('category_name')) $wp_query->set('post_type', 'any');
 }
 add_action('pre_get_posts', 'widilo_add_cats_to_pages_query');
 ```
-After you have saved the changes in the functions.php, you will see two new columns in your WordPress page overview: Categories and Keywords. Congratulations you did it!
+After you have saved the changes in the functions.php, you will see two new columns in your WordPress page overview: Categories and Keywords:
+
+![widiloCats4Pages Plugin for WordPress](https://github.com/widilo/widiloCats4Pages/blob/main/widiloCats4Pages-Screenshot.png)
 
 ## Download our lates plugin release: widilo®Cats4Pages v1.0.1
 
