@@ -1,5 +1,5 @@
 # widiloCats4Pages
-widilo®Cats4Pages - Add tags and categories to WordPress Pages with ease
+## widilo®Cats4Pages - Add tags and categories to WordPress Pages with ease.
 
 ![widiloCats4Pages Plugin for WordPress](https://github.com/widilo/widiloCats4Pages/blob/main/widiloCats4Pages-Screenshot.png?raw=true)
 
