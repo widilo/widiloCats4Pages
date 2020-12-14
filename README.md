@@ -7,7 +7,7 @@ If you want to add categories and keywords to your WordPress pages, you can use 
 
 If you are familiar with PHP and the creation and editing of WordPress themes, you can add the following code snippet to your functions.php. Please note, however, that the code snippet will be overwritten as soon as your theme receives an update.
 
-**If you want to implement the snippet permanently in your functions.php, you should create a child theme with an unchangeable functions.php.**
+**To implement the snippet permanently in your functions.php, you should create a child theme with an unchangeable functions.php.**
 
 Add this code snippet at the end of your functions.php:
 
