@@ -44,23 +44,23 @@ If you are not very familiar with PHP or changing WordPress themes or creating c
 
 ## Description / Installation
 
-=== Plugin Name ===
-Author: https://muennecke-vollmers.de
-Tags: categories, tags, pages
-Requires at least: 4.5
-Tested up to: 5.5.3
-Stable tag: 4.5
-Version: 1.0.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== Plugin Name === <br>
+Author: https://muennecke-vollmers.de <br>
+Tags: categories, tags, pages <br>
+Requires at least: 4.5 <br>
+Tested up to: 5.6 <br>
+Stable tag: 4.5 <br>
+Version: 1.0.1 <br>
+License: GPLv2 or later <br>
+License URI: http://www.gnu.org/licenses/gpl-2.0.html <br><br>
 
-(c) 2020+ Münnecke & Vollmers GbR, widilo® 
+(c) 2020+ Münnecke & Vollmers GbR, widilo® <br>
 
-== Description ==
+### == Description ==
 
 widilo®Cats4Pages adds tags and categories to WordPress pages. You only have to activate the plugin to enable categories and tags to pages.
 
-== Installation ==
+### == Installation ==
 
 How to install the widilo®Cats4Pages WordPress plugin and get it working:
 
