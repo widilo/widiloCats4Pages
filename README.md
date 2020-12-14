@@ -38,7 +38,7 @@ After you have saved the changes in the functions.php, you will see two new colu
 
 ![widiloCats4Pages Plugin for WordPress](https://github.com/widilo/widiloCats4Pages/blob/main/widiloCats4Pages-Screenshot.png)
 
-## Download our lates plugin release: widilo®Cats4Pages v1.0.1
+## Download our latest plugin release: widilo®Cats4Pages v1.0.1
 
 If you are not very familiar with PHP or changing WordPress themes or creating child themes, we provide you the latest release of widilo®Cats4Pages, Version 1.0.1, for download here: https://github.com/widilo/widiloCats4Pages/releases/tag/widiloCats4pages-v.1.0.1 
 
