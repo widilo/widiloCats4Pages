@@ -38,11 +38,11 @@ add_action('pre_get_posts', 'widilo_add_cats_to_pages_query');
 ```
 After you have saved the changes in the functions.php, you will see two new columns in your WordPress page overview: Categories and Keywords. Congratulations you did it!
 
-### Download our lates plugin release: widilo®Cats4Pages v1.0.1
+## Download our lates plugin release: widilo®Cats4Pages v1.0.1
 
 If you are not very familiar with PHP or changing WordPress themes or creating child themes, we provide you the latest release of widilo®Cats4Pages, Version 1.0.1, for download here: https://github.com/widilo/widiloCats4Pages/releases/tag/widiloCats4pages-v.1.0.1 
 
-### Description / Installation
+## Description / Installation
 
 === Plugin Name ===
 Author: https://muennecke-vollmers.de
@@ -54,7 +54,7 @@ Version: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-(c) 2020 Münnecke & Vollmers GbR, widilo® 
+(c) 2020+ Münnecke & Vollmers GbR, widilo® 
 
 == Description ==
 
