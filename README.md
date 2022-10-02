@@ -48,13 +48,13 @@ If you are not very familiar with PHP or changing WordPress themes or creating c
 Author: https://muennecke-vollmers.de <br>
 Tags: categories, tags, pages <br>
 Requires at least: 4.5 <br>
-Tested up to: 5.6 <br>
+Tested up to: 6.0.2 <br>
 Stable tag: 4.5 <br>
 Version: 1.0.1 <br>
 License: GPLv2 or later <br>
 License URI: http://www.gnu.org/licenses/gpl-2.0.html <br><br>
 
-(c) 2020+ Münnecke & Vollmers GbR, widilo® <br>
+(c) 2020-2022 Münnecke & Vollmers GbR, widilo® <br>
 
 == Description ==
 
